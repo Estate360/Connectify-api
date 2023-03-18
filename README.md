@@ -21,3 +21,30 @@ Connectify is a social networking app that allows users to create posts, follow 
 - [ ] Create the `User Routes`;
 
 - [ ] Create the `Post Routes`;
+
+- ### Nutshell Functionality 
+- [ ] User authentication and authorization using JWT tokens
+
+- [ ] User registration and login
+
+- [ ] Creation and deletion of posts
+
+- [ ] Retrieval of all posts or a specific post by ID
+
+- [ ] Creation and deletion of comments on posts
+
+- [ ] Creation and deletion of likes on posts
+
+- [ ] Following and unfollowing other users
+
+- [ ] Retrieval of notifications for a specific user
+
+- [ ] Marking notifications as read
+
+- [ ] Retrieval of all users or a specific user by ID
+
+- [ ] Updating user information (name, email, password, avatar)
+
+- [ ] Pagination of posts and users
+
+- [ ] Error handling and validation of input data
