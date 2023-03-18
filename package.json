@@ -1,5 +1,5 @@
 {
-  "name": "Connectify",
+  "name": "connectify",
   "version": "1.0.0",
   "description": "A social media app API built with Node.js and TypeScript",
   "main": "sever.js",
