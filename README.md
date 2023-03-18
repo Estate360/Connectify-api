@@ -4,7 +4,7 @@ Connectify is a social networking app that allows users to create posts, follow 
 ## Progress Track
 - [x] Create a `dev` and a `feature` branch;
 
-- [ ] Layout the folder structure/architecture in the `dev` branch;
+- [x] Layout the folder structure/architecture in the `dev` branch;
 
 - #### The rest comes in the `feature branch`
 
