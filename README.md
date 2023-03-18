@@ -8,9 +8,9 @@ Connectify is a social networking app that allows users to create posts, follow 
 
 - #### The rest comes in the `feature branch`
 
-- [ ] Create the `app.js` and `server.js` and get the server ruuning;
+- [x] Create the `app.js` and `server.js` and get the server ruuning;
 
-- [ ] Create the `Connection to Database`
+- [x] Create the `Connection to Database`
 
 - [ ] Create the `Interfaces` and corresponding `Models` which includes (*userModel, postModel, commentModel... *);
 
