@@ -1,13 +1,12 @@
 import mongoose, { Document } from "mongoose";
 
-interface IPostDoc extends Document {
+interface ICommentDoc extends Document {
   userId: mongoose.Types.ObjectId[];
-  postTag: string;
-  content: string[];
-  image_url: string;
+  postId: mongoose.Types.ObjectId[];
+  comment: string;
   isDeleted: boolean;
   createdAt: Date;
   updatedAt: Date;
 }
 
-export { IPostDoc };
+export { ICommentDoc };
