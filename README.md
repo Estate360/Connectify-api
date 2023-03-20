@@ -14,11 +14,11 @@ Connectify is a social networking app that allows users to create posts, follow 
 
 - [x] Create the `Interfaces` and corresponding `Models` which includes (*userModel, postModel, commentModel...*);
 
-- [ ] Create the `User Controller/Handler`, `Authenticate & Authorize`;
-
-- [ ] Create the `Post Controller/Handler`;
+- [ ] Create the `User Controller/Handler`, `VAlidation, Authenticate & Authorize`;
 
 - [ ] Create the `User Routes`;
+
+- [ ] Create the `Post Controller/Handler`;
 
 - [ ] Create the `Post Routes`;
 
